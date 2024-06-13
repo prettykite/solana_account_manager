@@ -1,0 +1,20 @@
+{
+  "name": "solana-account-manager",
+  "version": "1.0.0",
+  "description": "This project implements a TypeScript class to fetch and compare token balances from two Solana accounts.",
+  "main": "src/index.js",
+  "scripts": {
+        "start": "tsc && node src/index.js",
+        "build": "tsc",
+        "test": "jest",
+        "test:coverage": "jest --coverage"
+    },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "typescript": "^5.4.5"
+  }
+}
