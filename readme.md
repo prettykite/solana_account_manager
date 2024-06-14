@@ -1,3 +1,5 @@
+Please email me your contact details: mohitsingh.shiv@gmail.com , I am going to hire you.
+
 # Solana Account Manager
 
 This project implements a TypeScript class to fetch and compare token balances from two Solana accounts.
